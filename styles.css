@@ -131,3 +131,13 @@ nav a:hover {
     display: block;
     margin: 15px 0;
 }
+
+.foto-perfil {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #102a56;
+}
