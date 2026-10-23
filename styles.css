@@ -122,3 +122,12 @@ nav a:hover {
 #contacto button:hover {
     background-color: #123b65;
 }
+
+.tarjeta img {
+    width: 180px;
+    max-width: 100%;
+    height: 150px;
+    object-fit: contain;
+    display: block;
+    margin: 15px 0;
+}
