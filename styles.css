@@ -141,3 +141,9 @@ nav a:hover {
     margin: 20px auto;
     border: 3px solid #102a56;
 }
+
+footer a {
+    color: black;
+    font-weight: bold;
+}
+
