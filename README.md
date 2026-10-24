@@ -59,3 +59,17 @@ Objetivo
 
 Aplicar los conocimientos adquiridos sobre desarrollo web mediante la creación y publicación de un portafolio personal, utilizando HTML, CSS, JavaScript y GitHub.
 
+Cómo visualizar el proyecto
+
+Ingresar al repositorio de GitHub: https://github.com/wmosquera-hash/ActividadIntegradora1
+
+Seleccionar la opción Code y luego Download ZIP para descargar los archivos.
+
+Descomprimir la carpeta descargada.
+
+Abrir el archivo index.html en un navegador web.
+
+También se puede acceder directamente a la página publicada mediante GitHub Pages:
+
+https://wmosquera-hash.github.io/ActividadIntegradora1/
+
